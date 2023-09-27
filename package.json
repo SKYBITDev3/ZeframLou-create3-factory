@@ -1,0 +1,8 @@
+{
+  "name": "ZeframLou-create3-factory",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@transmissions11/solmate": "https://github.com/transmissions11/solmate#f2833c7cc951c50e0b5fd7e505571fddc10c8f77"
+  }
+}

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: AGPL-3.0
 pragma solidity ^0.8.13;
 
-import {CREATE3} from "solmate/utils/CREATE3.sol";
+import {CREATE3} from "@transmissions11/solmate/src/utils/CREATE3.sol";
 
 import {ICREATE3Factory} from "./ICREATE3Factory.sol";
 
